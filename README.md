@@ -94,7 +94,7 @@ another repository as of [this commit][45].
 Install the themes as you would this plugin (Vundle example):
 
 ```vim
-Plugin 'vim-airline/vim-airline'
+Plugin 'catorv/veevim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 ```
 
